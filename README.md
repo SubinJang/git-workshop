@@ -1,2 +1,4 @@
 # git-workshop
-git 사용법 실습
+GIT 사용법 실습
+
+1. 아침
